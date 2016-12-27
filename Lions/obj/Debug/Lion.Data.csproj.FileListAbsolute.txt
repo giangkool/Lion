@@ -1,0 +1,12 @@
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\bin\Debug\Lions.dll
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\bin\Debug\Lions.pdb
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\bin\Debug\MongoDB.Bson.dll
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\bin\Debug\MongoDB.Driver.dll
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\bin\Debug\MongoDB.Bson.xml
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\bin\Debug\MongoDB.Driver.xml
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\obj\Debug\Lions.dll
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\obj\Debug\Lions.pdb
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lions\obj\Debug\Lion.Data.csprojResolveAssemblyReference.cache

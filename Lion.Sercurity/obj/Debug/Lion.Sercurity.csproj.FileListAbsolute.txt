@@ -1,0 +1,5 @@
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lion.Sercurity\bin\Debug\Lion.Sercurity.dll
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lion.Sercurity\bin\Debug\Lion.Sercurity.pdb
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lion.Sercurity\obj\Debug\Lion.Sercurity.csprojResolveAssemblyReference.cache
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lion.Sercurity\obj\Debug\Lion.Sercurity.dll
+C:\Users\giang\OneDrive\Project X\Working\Lion\Lion.Sercurity\obj\Debug\Lion.Sercurity.pdb
