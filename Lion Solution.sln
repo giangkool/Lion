@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lion.Data", "Lions\Lion.Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lion.Sercurity", "Lion.Sercurity\Lion.Sercurity.csproj", "{AB99688F-4A13-4F88-978D-BDC836DB9E45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lion.Notification", "Lion.Notification\Lion.Notification.csproj", "{7A411FC6-A05C-484A-AD68-E374B9BC7BC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AB99688F-4A13-4F88-978D-BDC836DB9E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB99688F-4A13-4F88-978D-BDC836DB9E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB99688F-4A13-4F88-978D-BDC836DB9E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A411FC6-A05C-484A-AD68-E374B9BC7BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A411FC6-A05C-484A-AD68-E374B9BC7BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A411FC6-A05C-484A-AD68-E374B9BC7BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A411FC6-A05C-484A-AD68-E374B9BC7BC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
