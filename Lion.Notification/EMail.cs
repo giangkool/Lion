@@ -25,7 +25,7 @@ namespace Lion.Notification
                 client.Port = 587;
                 client.Host = "smtp.gmail.com";
                 client.EnableSsl = true;
-                client.Timeout = 10000;
+                client.Timeout = 1000;
                 client.DeliveryMethod = SmtpDeliveryMethod.Network;
                 client.UseDefaultCredentials = false;
                 client.Credentials = new System.Net.NetworkCredential(mailfrom, mailfrompassword);
